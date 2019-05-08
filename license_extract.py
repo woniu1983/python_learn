@@ -121,7 +121,5 @@ def main():
 
     outfile.close()
 
-    # parse_license("D:/Projects/RITS/YinJiv2/WorkSpace/Server/Yinji_YXY/node_modules/accepts/LICENSE")
-
 if __name__ == '__main__':
     main()
